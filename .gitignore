@@ -1,1 +1,5 @@
 /node_modules
+/target-app/node_modules
+/target-app/dist
+/.env
+.DS_Store
